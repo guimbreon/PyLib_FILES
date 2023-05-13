@@ -1,6 +1,6 @@
 # Files Library
 
-This is a basic math library that provides several functions for performing arithmetic operations on two numbers. It was created as part of an exercise in creating libraries.
+This is a file library that makes it easier to work with files.
 
 ## Installation
 
