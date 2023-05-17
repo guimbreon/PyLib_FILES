@@ -32,4 +32,3 @@ If you would like to contribute to this library, please create a pull request an
 
 These projects are licensed under the GNU General Public License. See the [LICENSE](LICENSE) file for more information.
 
-# PyLib_FILES
